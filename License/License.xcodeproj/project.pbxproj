@@ -1746,7 +1746,8 @@
 				CODE_SIGN_ENTITLEMENTS = License/License.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FGT5X7Z5AY;
+				CURRENT_PROJECT_VERSION = 31;
+				DEVELOPMENT_TEAM = 7YZ44NGFME;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/License/commanFile/Alipay",
@@ -1759,7 +1760,8 @@
 					"$(PROJECT_DIR)/License/lib",
 					"$(PROJECT_DIR)/MGBaseKit/MGBaseKitSDK",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fuxingjiakao.com;
+				MARKETING_VERSION = 1.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mzufan.llf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1775,7 +1777,8 @@
 				CODE_SIGN_ENTITLEMENTS = License/License.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FGT5X7Z5AY;
+				CURRENT_PROJECT_VERSION = 31;
+				DEVELOPMENT_TEAM = 7YZ44NGFME;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/License/commanFile/Alipay",
@@ -1788,7 +1791,8 @@
 					"$(PROJECT_DIR)/License/lib",
 					"$(PROJECT_DIR)/MGBaseKit/MGBaseKitSDK",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fuxingjiakao.com;
+				MARKETING_VERSION = 1.4;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mzufan.llf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
