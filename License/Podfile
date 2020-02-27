@@ -1,0 +1,37 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/Artsy/Specs.git'
+
+platform :ios, '8.0'
+
+target 'License' do
+  
+pod 'AFNetworking'
+pod 'YYKit'
+pod 'MBProgressHUD', '~> 1.1.0'
+pod 'QCloudCOSV4'
+pod 'UMCCommon'
+pod 'UMCAnalytics'
+pod 'UMCPush'
+pod 'UMCShare/UI'
+pod 'UMCShare/Social/ReducedWeChat'
+pod 'UMCShare/Social/ReducedQQ'
+pod 'UMCShare/Social/SMS'
+pod 'ReactiveViewModel'
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'SDWebImage', '4.0.0'
+pod 'FMDB'
+pod 'SBJson'
+pod 'Reachability'
+
+pod 'MJRefresh'
+pod 'MJExtension', '~>3.0'
+pod 'YTKNetwork'
+pod 'AliyunOSSiOS'
+pod 'CRBoxInputView'
+pod 'SAMKeychain', '1.5.3'
+
+pod 'WechatOpenSDK'   #微信开放者平台
+pod 'AlipaySDK-iOS'
+ 
+end
